@@ -2,6 +2,21 @@
 
 A modern bookmark manager built with Next.js 14, Supabase, and Tailwind CSS. Features Google OAuth authentication, real-time updates, and private bookmark management.
 
+
+---
+## 🛠 Tech Stack
+
+![Next.js](https://img.shields.io/badge/Framework-Next.js%2014-black)
+![React](https://img.shields.io/badge/Frontend-React-blue)
+![TypeScript](https://img.shields.io/badge/Language-TypeScript-3178C6)
+![Supabase](https://img.shields.io/badge/Backend-Supabase-3ECF8E)
+![Google OAuth](https://img.shields.io/badge/Auth-Google%20OAuth-orange)
+![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-blue)
+![RLS](https://img.shields.io/badge/Security-Row%20Level%20Security-red)
+![Realtime](https://img.shields.io/badge/Realtime-Supabase%20Realtime-success)
+![Tailwind CSS](https://img.shields.io/badge/Styling-Tailwind%20CSS-38B2AC)
+![Vercel](https://img.shields.io/badge/Deployment-Vercel-black)
+![Status](https://img.shields.io/badge/Project-Production--Ready-brightgreen)
 ## 🌟 Features
 
 - ✅ **Google OAuth Authentication** - Secure login with Google (no email/password)
